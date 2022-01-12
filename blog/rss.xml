@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ComfyAI Portal Blog</title>
+        <link>https://cybermancy.org/comfyai/docs/docs/blog</link>
+        <description>ComfyAI Portal Blog</description>
+        <lastBuildDate>Sat, 04 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“Better than Coinbase” – IOTAs new Assembly network is the missing piece for Metaverse and Web3]]></title>
+            <link>https://cybermancy.org/comfyai/docs/docs/blog/Assembly better than Coinbase</link>
+            <guid>Assembly better than Coinbase</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Better than coinbase]]></description>
+            <content:encoded><![CDATA[<p><img src="https://miro.medium.com/max/1400/1*8aPcRlHUFfOCOQC5QcSqOw.png" alt="Better than coinbase"/></p><p>Article about the implications of IOTAs new Assembly release.</p><p>Read the article on:<br/>
+<a href="https://www.reddit.com/r/Assembly_net/comments/r8n5at/better_than_coinbase_iotas_new_assembly_network/">Reddit</a><br/>
+<a href="https://medium.com/@linus.naumann/better-than-coinbase-why-the-new-iota-assembly-network-is-the-missing-piece-for-iota-based-f503420cc990">Medium</a></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
