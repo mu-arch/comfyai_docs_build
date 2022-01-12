@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[998],{6928:function(a){a.exports=JSON.parse('{"allTagsPath":"/comfyai_docs_build/blog/tags","slug":"/comfyai_docs_build/blog/tags/metaverse","name":"Metaverse","count":1,"permalink":"/comfyai_docs_build/blog/tags/metaverse"}')}}]);
